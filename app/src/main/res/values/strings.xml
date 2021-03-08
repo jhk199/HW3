@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Rick and Morty</string>
+    <string name="main_character">Character</string>
+    <string name="main_episode">Episode</string>
+    <string name="main_location">Location</string>
+
+    <string name="character_picture">picture</string>
+    <string name="episode_picture">episode</string>
+    <string name="episode_textView_rVname">Placeholder</string>
+    <string name="episode_button">More Information</string>
+    <string name="episode_characters">Characters in this episode are:</string>
+
+
+</resources>
